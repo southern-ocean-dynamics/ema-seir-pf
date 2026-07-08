@@ -1,2 +1,1 @@
-# emapex-acc
-EM-APEX floats in the Antarctic Circumpolar Current's near the South East Indian Ridge.
+# EM-APEX floats seeded in the Antarctic Circumpolar Current's Polar Front near the South East Indian Ridge.

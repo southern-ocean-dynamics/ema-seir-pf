@@ -1,0 +1,13 @@
+*.cfg
+f1076*.bin
+f1076*.txt
+f1076*.csv
+ema-f1076*.txt
+
+# IPython notebooks
+.ipynb_checkpoints/
+.ipynb_checkpoints/*
+
+~$*
+.~*
+.~lock.*
