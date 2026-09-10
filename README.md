@@ -45,8 +45,8 @@ Variable-level metadata (`standard_name`, `long_name`, `units`, and `comment` wh
 |---|---|---|---|---|
 | `T` | `sea_water_temperature` | In-situ Temperature | degree_Celsius | |
 | `S` | `sea_water_practical_salinity` | Practical Salinity | PSU | Dimensionless (PSS-78) |
-| `SA` | `sea_water_absolute_salinity` | Absolute Salinity | g kg-1 | TEOS-10 |
-| `CT` | `sea_water_conservative_temperature` | Conservative Temperature | degree_Celsius | TEOS-10 |
+<!-- | `SA` | `sea_water_absolute_salinity` | Absolute Salinity | g kg-1 | TEOS-10 |
+| `CT` | `sea_water_conservative_temperature` | Conservative Temperature | degree_Celsius | TEOS-10 | -->
 | `pressure` / `p` | `sea_water_pressure` | Sea Water Pressure | dbar | |
 | `gamman` | `sea_water_neutral_density` | Neutral Density | kg m-3 | Jackett and McDougall (1997) neutral density. |
 | `u1`, `u2` | `eastward_sea_water_velocity` | u-velocity component | m s-1 | |
