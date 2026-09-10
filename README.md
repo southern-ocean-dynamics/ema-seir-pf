@@ -80,10 +80,8 @@ If you use this data, please cite it as:
 
 > \[Meijer and Phillips], (2026). EM-APEX float profiles seeded in the ACC's Polar Front downstream of the South East Indian Ridge. \[Dataset]. Institute for Marine and Antarctic Studies, University of Tasmania. \[DOI/URL to be added]
 
+*A scientific paper describing this dataset and deployment is in preparation. Citation details (authors, journal, DOI) will be added here upon publication.*
+
 ### Code
 
 The preprocessing scripts in this repository are made available under the [MIT License](https://opensource.org/licenses/MIT) and may be reused, modified, and redistributed for processing EM-APEX float data, with attribution appreciated.
-
-### Companion publication
-
-*A scientific paper describing this dataset and deployment is in preparation. Citation details (authors, journal, DOI) will be added here upon publication.*
